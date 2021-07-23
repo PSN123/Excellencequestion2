@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Excellencequestion2/static/css/main.a617e044.chunk.css",
+    "main.js": "/Excellencequestion2/static/js/main.a6154cba.chunk.js",
+    "main.js.map": "/Excellencequestion2/static/js/main.a6154cba.chunk.js.map",
+    "runtime-main.js": "/Excellencequestion2/static/js/runtime-main.6bcaa597.js",
+    "runtime-main.js.map": "/Excellencequestion2/static/js/runtime-main.6bcaa597.js.map",
+    "static/js/2.3f9eec46.chunk.js": "/Excellencequestion2/static/js/2.3f9eec46.chunk.js",
+    "static/js/2.3f9eec46.chunk.js.map": "/Excellencequestion2/static/js/2.3f9eec46.chunk.js.map",
+    "static/js/3.7d361cfa.chunk.js": "/Excellencequestion2/static/js/3.7d361cfa.chunk.js",
+    "static/js/3.7d361cfa.chunk.js.map": "/Excellencequestion2/static/js/3.7d361cfa.chunk.js.map",
+    "index.html": "/Excellencequestion2/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/Excellencequestion2/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.3f9eec46.chunk.js.LICENSE.txt": "/Excellencequestion2/static/js/2.3f9eec46.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Excellencequestion2/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6bcaa597.js",
+    "static/js/2.3f9eec46.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.a6154cba.chunk.js"
+  ]
+}
